@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+   <host_b>141.195.7.174</host_b>
+   <host_c>3.135.216.221</host_c>
+   <host_d>18.191.214.121</host_d>
+   <upload_b_src>/Users/amohan/Desktop/teaching/2020-2021/fall/402/cloud/slack/square_build/data/upload/code_b/</upload_b_src>
+   <upload_b_dest>/home/ubuntu/</upload_b_dest>
+   <upload_c_src>/Users/amohan/Desktop/teaching/2020-2021/fall/402/cloud/slack/square_build/data/upload/code_c/</upload_c_src>
+   <upload_c_dest>/home/ubuntu/</upload_c_dest>
+   <upload_d_src>/Users/amohan/Desktop/teaching/2020-2021/fall/402/cloud/slack/square_build/data/upload/code_d/</upload_d_src>
+   <upload_d_dest>/home/ubuntu/</upload_d_dest>
+   <download_b_src>/home/ubuntu/code_b/data/input1.txt</download_b_src>
+   <download_c_src>/home/ubuntu/code_c/data/input2.txt</download_c_src>
+   <download_d_src>/home/ubuntu/code_d/data/output.txt</download_d_src>
+   <download_dest>/Users/amohan/Desktop/teaching/2020-2021/fall/402/cloud/slack/square_build/data/output/</download_dest>
+   <user>ubuntu</user>
+   <pem_b>/Users/amohan/Desktop/teaching/2020-2021/fall/402/cloud/slack/square_build/data/amohan_os.pem</pem_b>
+   <pem_c>/Users/amohan/Desktop/teaching/2020-2021/fall/402/cloud/slack/square_build/data/amohan_ec2.pem</pem_c>
+   <port>22</port>
+</config>
